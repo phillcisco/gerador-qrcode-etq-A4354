@@ -5,11 +5,6 @@ export default function EtiquetasPage() {
     <main>
         <h1>Gerador de Etiquetas</h1>
 
-        <a href="/api/etiquetas"
-           target="_blank">
-            Gerar PDF
-        </a>
-
         <form action="/api/etiquetas" method="GET">
 
             <label htmlFor="etq">Etiqueta</label>
