@@ -10,12 +10,12 @@ const alturaA4 = 297;
 const linhas = 11;
 
 //Horizontal 
-const margemEsquerda = 4;
-const espacoHorizontal = 4;
+const margemEsquerda = 5;
+const espacoHorizontal = 3;
 
 //Vertical
-const margemSuperior = 1.47;
-const espacoVertical = 1.47;
+const margemSuperior = 10;
+const espacoVertical = 0;
 
 //Padrão A4354 de etiquetas
 const larguraEtiqueta = 99;
